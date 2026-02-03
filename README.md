@@ -2,7 +2,7 @@
 
 
 
-# **Physical AI Systems Data Collection - PM Analytics Case Study**
+# **Physical AI Systems Data Collection - Case Study**
 
 
 
